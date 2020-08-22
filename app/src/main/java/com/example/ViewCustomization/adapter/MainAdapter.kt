@@ -16,7 +16,6 @@ import com.bumptech.glide.request.RequestListener
 import com.example.ViewCustomization.R
 import kotlinx.android.synthetic.main.custom_layout.view.*
 
-
 class MainAdapter(var context: Context, var mList: Int) :
     RecyclerView.Adapter<RecyclerView.ViewHolder>() {
 
