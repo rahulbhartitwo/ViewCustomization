@@ -16,7 +16,6 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme"
         android:usesCleartextTraffic="true">
-        <activity android:name=".SecondActivity"></activity>
         <activity android:name="com.example.ViewCustomization.MainActivity">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
